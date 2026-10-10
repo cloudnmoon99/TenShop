@@ -1,4 +1,0 @@
-[New version]
-TenShop=2026-10-12
-
-
