@@ -1,4 +1,0 @@
-[New version]
-TenShop=3.0.1327
-
-
