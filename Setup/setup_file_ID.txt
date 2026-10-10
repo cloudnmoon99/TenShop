@@ -1,0 +1,8 @@
+[setup_file]
+file_URL=https://drive.google.com/file/d/1irGTn5JxY3mdcWuOqF_Cw5SIL8wMVu5L/view?usp=drive_link
+file_ID=1irGTn5JxY3mdcWuOqF_Cw5SIL8wMVu5L
+setup_URL=https://drive.google.com/file/d/1toEjhss86nNKlTlP1h45Pto_z1h0voe7/view?usp=drive_link
+setup_ID=1toEjhss86nNKlTlP1h45Pto_z1h0voe7
+setup_filename=Setup_TENShop_20251219.exe
+설명=위 ID는 setup.exe파일의 고유ID이며, 파일교체시 ID의 변경여부를 확인해 달라졌으면 위 값을 변경해 주어야 한다.
+중요=이 setup_file_ID 파일은 절대로 삭제하지 말고 수정 또는 파일교체시 꼭 버젼유지 옵션으로 파일 ID가 변경되지 않도록 해야 한다.
