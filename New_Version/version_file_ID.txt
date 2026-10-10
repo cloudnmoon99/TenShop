@@ -1,0 +1,13 @@
+[version_file]
+
+file_URL=https://drive.google.com/file/d/1IrdW4fBZYjhHHCnxf16YyBig0RPF3L2u/view?usp=drive_link
+file_ID=1IrdW4fBZYjhHHCnxf16YyBig0RPF3L2u
+
+version_file_URL=https://drive.google.com/file/d/1kwNBNslG2LVT6VN6gIhtsEx__Jzz2sTl/view?usp=drive_link
+version_file_ID=1kwNBNslG2LVT6VN6gIhtsEx__Jzz2sTl
+
+description=위 ID는 new_version.txt파일의 고유ID이며, 파일교체시 ID의 변경여부를 확인해 달라졌으면 위 값을 변경해 주어야 한다.
+important=이 file_ID 파일은 절대로 삭제하지 말고 수정 또는 파일교체시 꼭 버젼유지 옵션으로 파일 ID가 변경되지 않도록 해야 한다.
+
+
+
