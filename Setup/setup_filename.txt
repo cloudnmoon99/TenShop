@@ -1,0 +1,2 @@
+[setup_file]
+setup_filename=Setup_TENShop_20251219.exe
